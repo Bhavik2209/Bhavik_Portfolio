@@ -1,5 +1,9 @@
 # Data Scientist
-
+### mobile - +91 8401574636
+### E-mail - bhavikrohit22@gmail.com
+## Social:
+- ## [LinkedIn](linkedin.com/in/bhavik-rohit/)
+- ## [GitHub](github.com/Bhavik2209)
 #### Languages: 
 Python, Java, JavaScript, C
 
